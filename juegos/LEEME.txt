@@ -1,0 +1,1 @@
+Los juegos ya no muestran la respuesta correcta cuando hay un error. Cada juego incluye «← Volver al inicio».
